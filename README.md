@@ -1,5 +1,5 @@
 # Input-Output-and-error-handling
-University of Jaffna: Faculty of Engineering : EC5080: Data Structures and Algorithms: Lab 3: Input/output, and error handling
+University of Jaffna: Faculty of Engineering : EC5080: Software Construction: Lab 3: Input/output, and error handling
 
 
 Implement the Accounts class following the questions and statements below. Before implementing part 6 and 7, learn how to create a custom (your own) exception class.
